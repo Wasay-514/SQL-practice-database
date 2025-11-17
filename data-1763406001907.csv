@@ -1,0 +1,11 @@
+"product_id","product_name","category","price","stock"
+"1","Laptop","Electronics",45000,15
+"2","mobile","Electronics",35000,19
+"3","Fridge","Electronics",55000,10
+"4","Television","Electronics",26000,10
+"5","Washing_machine","Electronics",42000,11
+"6","Chair","Furniture",10000,18
+"7","Laptop","Electronics",35000,17
+"8","Shoes","Fashion",5000,12
+"9","Laptop","Electronics",65000,13
+"10","Backpack","Accessories",2000,19
